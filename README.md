@@ -1,4 +1,4 @@
-# Welcome to bitbucket-pipelines-node-14-aws 👋
+#bitbucket-pipelines-node-14-aws
 
 > A container image for bitbucket pipeline builds on a node stack, with aws cli for deployments to aws.
 
@@ -20,6 +20,3 @@ image: kevmza/xf-pipeline-node-aws-14x:latest
 - Website: 
 - Github:
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
