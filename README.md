@@ -1,23 +1,24 @@
-# Welcome to bitbucket-pipelines-node-aws 👋
+# Welcome to bitbucket-pipelines-node-14-aws 👋
 
 > A container image for bitbucket pipeline builds on a node stack, with aws cli for deployments to aws.
 
-### 🏠 [Homepage](https://hub.docker.com/r/sovtech/bitbucket-pipelines-node-aws)
+### 🏠 [Homepage](https://hub.docker.com/repository/docker/kevmza/xf-pipeline-node-aws-14x)
 
 ## Usage
 
 Specify this image in your bitbucket-pipelines.yml
 
 ```
-image: sovtech/bitbucket-pipelines-node-aws:latest
+image: kevmza/xf-pipeline-node-aws-14x:latest
+
 ```
 
 ## Author
 
-👤 **SovTech**
+👤 **h**
 
-- Website: https://sov.tech
-- Github: [@sovtech](https://github.com/sovtech)
+- Website: 
+- Github:
 
 ## Show your support
 
